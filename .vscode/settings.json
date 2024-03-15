@@ -86,5 +86,6 @@
     "other": "off"
   },
   "editor.inlineSuggest.showToolbar": "never",
-  "editor.hover.enabled": false
+  "editor.hover.enabled": false,
+  "editor.hover.sticky": false
 }

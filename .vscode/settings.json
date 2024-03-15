@@ -80,5 +80,6 @@
     "rufo",
     "setobiralo",
     "vortizhe"
-  ]
+  ],
+  "editor.formatOnSave": true
 }

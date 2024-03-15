@@ -14,7 +14,7 @@ get("/zebra") do
 end
 
 get("/giraffe") do
-  "Hopefully this shows up without having to restart the server 🤞🏾"
+"Hopefully this shows up without having to restart the server 🤞🏾"
 end
 
 # ------------------------------------------------------------------ #

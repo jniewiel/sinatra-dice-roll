@@ -71,5 +71,14 @@
     "*.html.erb": "erb"
   },
   "editor.autoClosingComments": "always",
-  "editor.autoClosingBrackets": "always"
+  "editor.autoClosingBrackets": "always",
+  "cSpell.words": [
+    "aliariff",
+    "eamodio",
+    "jelaniwoods",
+    "mbessey",
+    "rufo",
+    "setobiralo",
+    "vortizhe"
+  ]
 }

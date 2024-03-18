@@ -1,7 +1,7 @@
 {
   "editor.tabSize": 2,
   "editor.acceptSuggestionOnEnter": "on",
-  "editor.bracketPairColorization.enabled": false,
+  "editor.bracketPairColorization.enabled": true,
   "editor.cursorSurroundingLines": 4,
   "editor.dragAndDrop": false,
   "editor.guides.bracketPairs": true,
@@ -85,11 +85,12 @@
   "editor.quickSuggestions": {
     "other": "off"
   },
-  "editor.inlineSuggest.showToolbar": "never",
+  "editor.inlineSuggest.showToolbar": "always",
   "editor.hover.enabled": false,
   "editor.hover.sticky": false,
   "editor.hover.delay": 0,
   "editor.hover.hidingDelay": 0,
   "workbench.hover.delay": 0,
-  "workbench.sash.hoverDelay": 0
+  "workbench.sash.hoverDelay": 0,
+  "editor.autoClosingQuotes": "always"
 }
